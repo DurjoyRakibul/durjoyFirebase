@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.a
+*.exe
+
+# Arduino temporary files
+*.log
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
